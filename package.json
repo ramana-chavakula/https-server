@@ -1,0 +1,12 @@
+{
+  "name": "https",
+  "version": "0.0.1",
+  "description": "poc for https",
+  "main": "server.js",
+  "keywords": [
+  ],
+  "author": "CH.N.V Ramana Murthy",
+  "license": "slef",
+  "dependencies": {
+  }
+}
